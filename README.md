@@ -1,4 +1,4 @@
-### Hi there 👋
+### プログラマーになりたいにぇ、、
 
 <!--
 **sokusi9929/sokusi9929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
