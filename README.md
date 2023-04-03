@@ -1,4 +1,5 @@
-### PythonとC頑張りたいにぇ
+### discord.jsでbot作っています
+　　対話や音楽を流す機能を作っています
 
 <!--
 **sokusi9929/sokusi9929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
